@@ -10,8 +10,8 @@ How to use:
 - This spreasheet is missing most of the items in the game and also doesn't have all the item categories added, so you will have to add what you want unti the spreadsheet is completed.
 
 How to contribute:
-Create a branch and add your changes, contact me once you are done and I will manually merge the changes.
+- Create a branch and add your changes, contact me once you are done and I will manually merge the changes.
 
-bg3-item-planner
 
-tags: bg3, build tool, maker
+
+tags: bg3, build tool, maker, bg3-item-planner
